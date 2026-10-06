@@ -338,7 +338,7 @@ settings:
                 # Show the login/register dialog during the Paper/Folia pre-join phase.
                 # Independent from postJoin.enable; you may enable either or both options.
                 # On non-Paper/Folia platforms this option has no effect.
-                enable: true
+                enable: false
                 # Show a cancel button in Paper/Folia pre-join dialogs.
                 # If disabled, players must submit the dialog or disconnect instead.
                 showCancelButton: true
